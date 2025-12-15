@@ -20,6 +20,7 @@ int main() {
     cout << "\nEstimate for carpet cleaning service" << endl;
     cout << "\nNumber of small rooms: " << number_of_small_rooms<<endl;
     cout << "Number of large rooms: " << number_of_large_rooms<<endl;
+    cout << "hi there" << endl;
     
     cout << "Price per small room: $"<<price_per_small_room<<" ==> $" << price_per_small_room * number_of_small_rooms<<  endl;
     cout << "Price per large room: $"<<price_per_large_room<<" ==> $" << price_per_large_room * number_of_large_rooms<<  endl;
