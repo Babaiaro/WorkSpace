@@ -21,7 +21,7 @@ int main() {
         if (finalScore >= 90) {
             std::cout << "Grade: A (Outstanding!)\n";
         } else if (finalScore >= 80) {
-            std::cout << "Grade: B (Very Good!)\n";
+            std::cout << "Grade: B (VERY COOL!)\n";
         } else if (finalScore >= 70) {
             std::cout << "Grade: C (Good, but could improve)\n";
         } else {
